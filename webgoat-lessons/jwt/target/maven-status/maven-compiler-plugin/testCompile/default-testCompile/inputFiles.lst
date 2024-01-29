@@ -1,0 +1,5 @@
+/Users/chakrava/go/src/scan_projects/webgoat-sarif/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTFinalEndpointTest.java
+/Users/chakrava/go/src/scan_projects/webgoat-sarif/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.java
+/Users/chakrava/go/src/scan_projects/webgoat-sarif/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.java
+/Users/chakrava/go/src/scan_projects/webgoat-sarif/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.java
+/Users/chakrava/go/src/scan_projects/webgoat-sarif/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/TokenTest.java

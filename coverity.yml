@@ -1,0 +1,5 @@
+version: 1
+ 
+capture:
+  build:
+    build-command: ./mvnw clean install -DskipTests
